@@ -1,0 +1,37 @@
+.App {
+
+}
+
+.App.in {
+  margin-left: 256px;
+}
+
+.App .content {
+  display: block;
+  padding: 32px;
+}
+
+.App .content > h1 {
+  margin-top: 0;
+  font-weight: 300;
+}
+
+.App .DrawerMenu a {
+  text-decoration: none;
+}
+
+
+.Box ol {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.Box ol > li {
+  border-left: 4px solid #d4dfe6;
+  padding: 6px 12px;
+  margin-bottom: 4px;
+}
+.Box ol > li::last-of-type {
+  margin-bottom: 0;
+}

@@ -1,0 +1,13 @@
+.Header {
+  padding: 64px;
+  color: white;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.Header h1 {
+  margin: 0;
+  font-size: 64px;
+  font-weight: 100;
+  line-height: 64px;
+}
